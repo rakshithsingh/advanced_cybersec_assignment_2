@@ -1,5 +1,4 @@
 /*********
-  Rui Santos
   Complete project details at https://randomnerdtutorials.com  
 *********/
 
